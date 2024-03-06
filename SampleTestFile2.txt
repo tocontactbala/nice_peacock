@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is sample file 2
+=======
+This is comparion lecture, Change in file 2
+>>>>>>> main
